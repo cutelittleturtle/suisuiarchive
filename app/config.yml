@@ -1,0 +1,22 @@
+# TODO: i18 Support
+
+
+fonts_api:
+  google: https://fonts.googleapis.com/css?family=
+  active: google
+
+menu:
+  show-archive:
+    label: 公演补档
+    href: /show-archive.html
+  unit-archive:
+    label: unit展示
+    href: /unit-archive.html
+  live-stream:
+    label: 直播列表
+    href: /live-stream.html
+  weibo:
+    label: 微记录
+    href: https://cutelittleturtle.github.io/timelineYBY/
+
+

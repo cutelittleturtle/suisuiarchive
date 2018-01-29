@@ -1,0 +1,50 @@
+/* ========================================
+   navbar
+   ======================================== */
+
+.navbar {
+  margin-bottom: 0;
+  width: 100%;
+  transition: background .5s ease;
+  border-color: transparent;
+  background: #2b2e48;
+  z-index: 999;
+
+  .home & { background: transparent; }
+  .show-archive & { background: transparent; }
+  .unit-archive & { background: transparent; }
+  .live-stream & { background: transparent; }
+
+  .navbar-nav>li>a:after {
+    content: ' ';
+    position: absolute;
+    left: 50%;
+    bottom: 8px;
+    margin-left: -15%;
+    width: 30%;
+    border: 1px solid transparent;
+    transition: all .3s ease;
+    opacity: .8;
+  }
+
+  .navbar-nav>li>a:hover,
+  .navbar-nav>li>a:focus,
+  .navbar-nav>.active>a,
+  .navbar-nav>.active>a:focus,
+  .navbar-nav>.active>a:hover {
+    background-color: transparent;
+    color: #ee4d4d;
+
+    &:after { border-color: #ee4d4d; }
+  }
+
+  &.affix {
+    color: #333;
+    background: #2b2e48;
+    //border-color: #4f58a1;
+  }
+
+  .navbar-brand {
+    color: #ee4d4d;
+  }
+}

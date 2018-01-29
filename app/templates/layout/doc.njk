@@ -1,0 +1,44 @@
+{% extends './base.njk' %}
+
+{% block header %}
+  {{ super() }}
+
+  <h1 class="next-docs-header">
+    <div class="container">
+      {% block pageHeader %}{% endblock %}
+    </div>
+  </h1>
+{% endblock %}
+
+{% block main %}
+  <section class="next-docs">
+    <div class="container next-docs-sections">
+      <div class="row">
+        <div class="col-md-9 next-docs-section" role="main">
+          {% block pageContent %}{% endblock %}
+
+          <div class="text-center next-docs-section-footer">
+            <a href="https://github.com/cutelittleturtle/suisuiarchive/issues"
+               target="_blank" class="next-docs-btn next-docs-btn-default">
+              <i class="fa fa-bug"></i> 文档问题反馈
+            </a>
+            <a href="#top" class="back-to-top next-docs-btn next-docs-btn-default">
+              <i class="fa fa-arrow-up"></i> 返回顶部
+            </a>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <nav class="next-docs-sidebar nav">
+            <div class="nav">
+              {% block pageSidebar %}{% endblock %}
+            </div>
+
+            <ul>
+              <li><a href="#top" class="back-to-top">回到顶部</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}

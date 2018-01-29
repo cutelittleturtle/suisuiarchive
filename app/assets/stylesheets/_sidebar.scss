@@ -1,0 +1,55 @@
+.next-docs-sidebar {
+  padding: 40px 10px;
+
+  &.affix-bottom { position: absolute; }
+
+  &.affix .nav>ul:first-child { margin-top: 0; }
+
+  ul { padding-left: 0; }
+  li {
+    margin: 5px 0;
+    list-style: none;
+  }
+  li.active > a { font-weight: bold; }
+
+  .nav>ul>li:first-child { margin-top: 0; }
+  li ul { display: none; }
+  li>ul{ margin: 10px 2px; }
+  li.active ul { display: block; }
+
+  a { color: #333; }
+  a:hover { text-decoration: underline; }
+
+  li li a {
+    border-radius: 3px;
+    display: block;
+    background: #eee;
+    padding: 2px 10px;
+    &:hover {
+      text-decoration: none;
+      color: white;
+      background: #337ab7;
+    }
+  }
+
+  li.active li.active>a {
+    font-weight: normal;
+    color: white;
+    background: #337ab7;
+  }
+}
+
+@media (min-width: 992px) {
+  .next-docs-sidebar.affix {
+    position: fixed;
+    top: 0;
+    width: 213px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .next-docs-sidebar.affix,
+  .next-docs-sidebar.affix-bottom {
+    width: 263px;
+  }
+}

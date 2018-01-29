@@ -1,0 +1,10 @@
+{% extends './templates/layout/doc.njk' %}
+
+{# S: 页面元数据 #}
+{% block documentTitle %}公演补档{% endblock %}
+{% block pageName %}show-archive{% endblock %}
+{# E: 页面元数据 #}
+
+{% block pageHeader %}
+  <i class="fa-tripadvisor fa"></i> 公演补档
+{% endblock %}
