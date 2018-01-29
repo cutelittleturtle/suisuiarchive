@@ -1,4 +1,4 @@
-# [SNH48-杨冰怡的补档小站 v2](suisui.stream) [![Build Status](https://travis-ci.org/cutelittleturtle/suisuiarchive.svg?branch=master)](https://travis-ci.org/cutelittleturtle/suisuiarchive)
+# [SNH48-杨冰怡的补档小站 v2](http://suisui.stream) [![Build Status](https://travis-ci.org/cutelittleturtle/suisuiarchive.svg?branch=master)](https://travis-ci.org/cutelittleturtle/suisuiarchive)
 
 SNH48杨冰怡的补档小站第二版。本版本采用了全新设计，且仅收录SNH48-杨冰怡相关信息。如希望访问Hexo搭建的旧版，请点击[这里](cutelittleturtle.github.io)。
 
