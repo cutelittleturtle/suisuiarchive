@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import codecs
-import sys, getopt
 import os
+import shutil
 
 # This script read a text+url text file to produce a jekyll friendly post file for publihsing html
 
@@ -211,14 +211,37 @@ def master_build(inputfile, outputfile):
     fo2.write(sidebar_toc)
     fo2.close()
 
+def concatenate_files(sourcefolder):
+
+    sourcefolder2 = sourcefolder + "补档模块" + os.path.sep
+    filenames = [sourcefolder2 + "公演.txt", sourcefolder2 + "最新活动.txt", sourcefolder2 + "参与MV.txt", sourcefolder2 + "粉丝视频.txt",
+                 sourcefolder2 + "团内荣誉.txt", sourcefolder2 + "演讲感言.txt", sourcefolder2 + "生日会.txt", sourcefolder2 + "其他.txt"]
+
+    with codecs.open(sourcefolder + "补档.txt", 'w', encoding='utf-8') as fo:
+        for fname in filenames:
+            with codecs.open(fname, 'r', encoding='utf-8') as fi:
+                for line in fi:
+                    # remove UTF-BOM made by Windows notepad
+                    if codecs.BOM_UTF8.decode('utf-8') in line:
+                        line = line.replace(codecs.BOM_UTF8.decode('utf-8'),"")
+                    fo.write(line)
+            fo.write("\n\n")
+
+
 if __name__ == '__main__':
 
     sourcefolder = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章" + os.path.sep
+
+    # create 补档.txt
+    concatenate_files(sourcefolder)
+
+    # create njk flies for each archive
     master_build(sourcefolder + "补档.txt", os.getcwd() + os.path.sep + "show-archive.njk")
     master_build(sourcefolder + "unit展示.txt", os.getcwd() + os.path.sep + "unit-archive.njk")
     master_build(sourcefolder + "直播.txt", os.getcwd() + os.path.sep + "live-stream.njk")
 
-    import shutil
+    # move generated njk to app/ folder as template
+
     destination = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "app" + os.path.sep
     shutil.copy2("show-archive.njk", destination + "show-archive.njk")
     shutil.copy2("unit-archive.njk", destination + "unit-archive.njk")
