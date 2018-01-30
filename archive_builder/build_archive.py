@@ -227,6 +227,7 @@ def concatenate_files(sourcefolder):
                     fo.write(line)
             fo.write("\n\n")
 
+    print("archive parts concatenated for 补档.txt!")
 
 if __name__ == '__main__':
 
