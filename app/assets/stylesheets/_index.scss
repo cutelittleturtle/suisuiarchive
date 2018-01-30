@@ -237,6 +237,15 @@
 
 .next-doc-categories-button { margin-top: 0; }
 
+@media screen and (max-width: 768px) {
+  .next-doc-categories-list, li {margin: 0 0 0 0;}
+  .fa { font-size: 15px; }
+  .next-doc-categories-item-content {margin: 0 0 0 0;}
+  .next-doc-categories-item-content>p {
+    display: none;
+  }
+}
+
 
 
 /* ========================================

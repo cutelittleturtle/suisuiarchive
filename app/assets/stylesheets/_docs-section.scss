@@ -129,4 +129,12 @@
 
     &:first-child { margin-left: 0; }
   }
+
+  @media screen and (max-width: 768px) {
+    .back-to-top {
+      position: fixed;
+      right: 1em;
+      bottom: 2em;
+    }
+  }
 }
