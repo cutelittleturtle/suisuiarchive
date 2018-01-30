@@ -10,7 +10,9 @@ SNH48杨冰怡的补档小站第二版。本版本采用了全新设计，且仅
 # 版权:
 
 网站模板：[NexT Documentation](http://theme-next.iissnan.com/)
+
 图片内容: [SNH48-杨冰怡](https://weibo.com/u/5491331848), [SNH48](http://www.snh48.com/)
+
 源代码: [MIT License](https://opensource.org/licenses/MIT)
 
 &nbsp;
