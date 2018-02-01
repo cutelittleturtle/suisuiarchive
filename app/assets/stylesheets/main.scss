@@ -9,6 +9,7 @@ $fa-font-path: "~font-awesome/fonts/";
 $slick-font-path: "~slick-carousel/slick/fonts/";
 @import "~slick-carousel/slick/slick";
 
+@import '~owl.carousel/dist/assets/owl.carousel.css';
 @import "mixins/font-face";
 @import "scaffolding";
 @import "buttons";

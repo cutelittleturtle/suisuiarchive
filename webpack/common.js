@@ -17,7 +17,7 @@ module.exports = () => {
       rules: [
         { test: /\.ts$/, use: 'ts-loader' },
         {
-          test: /\.woff2?$|\.ttf$|\.eot$|\.svg$/,
+          test: /\.woff2?$|\.ttf$|\.eot$|\.svg$|\.png$|\.jpg$/,
           use: {
             loader: 'file-loader',
             options: { name: 'fonts/[name].[ext]' }

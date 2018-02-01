@@ -135,6 +135,19 @@
     </div>
   </section>
 
+   <section class="next-section-narrow">
+    <div class="container">
+      <div class="next-section-header">
+        <h3 class="next-section-intersect-title">粉丝寄语</h3>
+      </div>
+
+      {% block fansReviewSlide %}
+        {% include 'templates/partials/fansReviewSlide.njk' %}
+      {% endblock %}
+
+    </div>
+  </section>
+
   <section class="next-section next-section-intersect next-doc-categories">
     <div class="container text-center">
       <ul class="next-doc-categories-list text-left clearfix">
@@ -169,7 +182,42 @@
            href="show-archive.html" role="button">开始补档</a>
       </p>
     </div>
+
   </section>
 
+{% endblock %}
+
+
+{% block additionalscripts %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+
+    <script>
+    $(document).ready(function(){
+      $(".owl-carousel").owlCarousel({
+        items: 4,
+            loop: true,
+            autoplay: true,
+            smartSpeed: 1500,
+            margin: 10,
+            nav: true,
+            navText: ['', ''],
+            responsive: {
+                320: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 3
+                },
+                1200: {
+                    items: 4
+                }
+            }
+      });
+    });
+  </script>
 {% endblock %}
 

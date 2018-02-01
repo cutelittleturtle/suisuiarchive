@@ -10,6 +10,7 @@ import registerBackToTop from './register-back-to-top';
 import homeNav from './home-nav';
 import toc from './toc';
 
+
 $(document).ready(function () {
   homeNav();
   toc();
