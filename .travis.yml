@@ -6,7 +6,7 @@ cache:
   directories:
     - node_modules
 
-python: 3.5
+python: 3.6
 
 # S: Build Lifecycle
 install:
@@ -15,7 +15,7 @@ install:
 before_script:
   - npm install -g gulp
   - cd archive_builder
-  - python build_archive.py
+  - python3 build_archive.py
   - cd ..
 
 script:
