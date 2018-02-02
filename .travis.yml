@@ -29,6 +29,16 @@ after_script:
   - git add .
   - git commit -m "Update docs"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
+  
+  # push to coding.net
+  - rm -rf .git
+  - git init
+  - git config user.name "cutelittleturtle"
+  - git config user.email "31291893+cutelittleturtle@users.noreply.github.com"
+  - git add .
+  - git commit -m "Update docs"
+  - git push --force --quiet "https://cutelittleturtle:${CODING_TOKEN}@${CODING_REF}" master:master
+  
 # E: Build LifeCycle
 
 branches:
@@ -37,3 +47,4 @@ branches:
 env:
  global:
    - GH_REF: github.com/cutelittleturtle/suisuiarchive.git
+   - CODING_REF: git.coding.net/cutelittleturtle/suisuiarchive.git
