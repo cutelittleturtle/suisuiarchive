@@ -3,6 +3,7 @@
 const gulp = require('gulp');
 const tap = require('gulp-tap');
 const renderer = require('../../lib/renderer');
+const imagemin = require('gulp-imagemin');
 
 const APP_DIR = 'app/';
 const SOURCE = {
@@ -22,6 +23,7 @@ const DIST = {
 
 module.exports = () => {
   gulp.src(SOURCE.img)
+    .pipe(imagemin())
     .pipe(gulp.dest(DIST.img));
 
   gulp.src(SOURCE.uploads)
