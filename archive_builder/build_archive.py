@@ -4,6 +4,7 @@
 import codecs
 import os
 import shutil
+from get_stream_update import update_stream_archive
 
 # This script read a text+url text file to produce a jekyll friendly post file for publihsing html
 
@@ -205,9 +206,9 @@ def master_build(inputfile, outputfile):
 
     fo2 = codecs.open(outputfile, 'w', encoding="utf-8")
     fo2.write(head_str)
-    fo2.write("\n")
+    fo2.write(os.linesep)
     fo2.write(archive_string)
-    fo2.write("\n")
+    fo2.write(os.linesep)
     fo2.write(sidebar_toc)
     fo2.close()
 
@@ -225,7 +226,7 @@ def concatenate_files(sourcefolder):
                     if codecs.BOM_UTF8.decode('utf-8') in line:
                         line = line.replace(codecs.BOM_UTF8.decode('utf-8'),"")
                     fo.write(line)
-            fo.write("\n\n")
+            fo.write(os.linesep + os.linesep)
 
     print("archive parts concatenated for 补档.txt!")
 
@@ -235,6 +236,9 @@ if __name__ == '__main__':
 
     # create 补档.txt
     concatenate_files(sourcefolder)
+
+    # update 直播.txt automatically
+    update_stream_archive()
 
     # create njk flies for each archive
     master_build(sourcefolder + "补档.txt", os.getcwd() + os.path.sep + "show-archive.njk")
