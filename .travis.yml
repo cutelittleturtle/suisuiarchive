@@ -12,6 +12,8 @@ python: 3.6
 # S: Build Lifecycle
 install:
   - npm install
+  - pip install requests
+  - pip install bs4
 
 before_script:
   - npm install -g gulp
