@@ -5,7 +5,7 @@ node_js: stable
 cache:
   directories:
     - node_modules
-    - pip
+    - pip3
 
 python: 3.6
 
@@ -16,8 +16,8 @@ install:
 before_script:
   - npm install -g gulp
   - cd archive_builder
-  - python -m pip install requests
-  - python -m pip install bs4
+  - python3 -m pip install requests
+  - python3 -m pip install bs4
   - python3 build_archive.py
   - cd ..
 
