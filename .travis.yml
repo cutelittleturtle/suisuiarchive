@@ -12,12 +12,12 @@ python: 3.6
 # S: Build Lifecycle
 install:
   - npm install
-  - pip install requests
-  - pip install bs4
 
 before_script:
   - npm install -g gulp
   - cd archive_builder
+  - python -m pip install requests
+  - python -m pip install bs4
   - python3 build_archive.py
   - cd ..
 
