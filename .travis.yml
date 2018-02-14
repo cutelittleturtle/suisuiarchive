@@ -18,7 +18,6 @@ install:
 before_script:
   - npm install -g gulp
   - cd archive_builder
-  - python3 -m pip install requests
   - python3 build_archive.py
   - cd ..
 
