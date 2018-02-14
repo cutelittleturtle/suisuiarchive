@@ -1,15 +1,12 @@
-language: node_js
+language: node_js, language
 node_js: stable
 
 # Travis-CI Caching
 cache:
   directories:
     - node_modules
-    - pip3
 
 python: 3.6
-
-group: deprecated-2017Q3
 
 # S: Build Lifecycle
 install:
@@ -19,10 +16,10 @@ install:
 
 before_script:
   - npm install -g gulp
-  - python3 -m pip install requests
-  - python3 -m pip install bs4
+  - python -m pip install requests
+  - python -m pip install bs4
   - cd archive_builder
-  - python3 build_archive.py
+  - python build_archive.py
   - cd ..
 
 script:
