@@ -12,10 +12,11 @@ python: 3.6
 # S: Build Lifecycle
 install:
   - npm install
+  - wget -qO- https://bootstrap.pypa.io/get-pip.py | python3
+
 
 before_script:
   - npm install -g gulp
-  - python3 -m pip || wget https://bootstrap.pypa.io/get-pip.py | python3
   - python3 -m pip install requests
   - python3 -m pip install bs4
   - cd archive_builder
