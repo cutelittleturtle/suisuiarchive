@@ -1,23 +1,22 @@
-language: node_js, language
+language: node_js
 node_js: stable
+
+language: python
+python: 3.6
 
 # Travis-CI Caching
 cache:
   directories:
     - node_modules
 
-python: 3.6
-
 # S: Build Lifecycle
 install:
   - npm install
-  - wget -qO- https://bootstrap.pypa.io/get-pip.py | python3
-
-
-before_script:
   - npm install -g gulp
   - python -m pip install requests
   - python -m pip install bs4
+
+before_script:
   - cd archive_builder
   - python build_archive.py
   - cd ..
