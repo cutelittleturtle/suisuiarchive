@@ -9,6 +9,8 @@ cache:
 
 python: 3.6
 
+group: deprecated-2017Q3
+
 # S: Build Lifecycle
 install:
   - npm install
