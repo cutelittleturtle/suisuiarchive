@@ -15,6 +15,7 @@ install:
   - npm install -g gulp
   - python -m pip install requests
   - python -m pip install bs4
+  - python -m pip install lxml
 
 before_script:
   - cd archive_builder
