@@ -33,7 +33,7 @@ def get_new_stream(sourcedate):
                 title = re.search(r'.*\d{6}', title).group(0)[:-7]
             except:
                 r2 = requests.get(url)
-                soup = BeautifulSoup(r2, 'lxml')
+                soup = BeautifulSoup(r2.content, 'lxml')
                 date = soup.find('time')['datetime'][:10]
 
             #print(date + " " + title, url)
