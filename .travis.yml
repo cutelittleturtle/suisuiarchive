@@ -8,6 +8,7 @@ python: 3.6
 cache:
   directories:
     - node_modules
+    - pip
 
 # S: Build Lifecycle
 install:
