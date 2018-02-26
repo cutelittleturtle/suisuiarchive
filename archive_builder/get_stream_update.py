@@ -37,7 +37,9 @@ def get_new_stream(sourcedate):
                 date = soup.find('time')['datetime'][:10]
 
             #print(date + " " + title, url)
+            #print(sourcedate)
             if datetime.strptime(date, '%Y-%m-%d') > datetime.strptime(sourcedate, '%Y-%m-%d'):
+                #print(title + " " + date)
                 new_addition.append({'title':date + " " + title, 'url':url, 'aid':aid})
 
     return new_addition
