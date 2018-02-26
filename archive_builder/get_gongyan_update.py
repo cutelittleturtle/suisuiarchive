@@ -29,7 +29,7 @@ def get_new_stream(sourcedate):
         if "命运的X号" in title and "公演" in title:
             try:
                 date = re.search(r'\d{8}',title).group(0)
-                title = date + " Team X 《命运的X号》公演 杨冰怡cut"
+                title = date + " " + title.replace(date, '').strip()
             except:
                 r2 = requests.get(url)
                 soup = BeautifulSoup(r2.content, 'lxml')
