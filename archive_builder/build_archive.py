@@ -5,6 +5,7 @@ import codecs
 import os
 import shutil
 from get_stream_update import update_stream_archive
+from get_gongyan_update import update_gongyan_archive
 
 # This script read a text+url text file to produce a jekyll friendly post file for publihsing html
 
@@ -237,8 +238,12 @@ if __name__ == '__main__':
     # create 补档.txt
     concatenate_files(sourcefolder)
 
-    # update 直播.txt automatically
+    # update 直播.txt automatically, 来源：杨冰怡应援会
     update_stream_archive()
+
+    # update 公演.txt -> 《命运的X号》公演补档 automatically, 来源: 杨冰怡返图站
+    update_gongyan_archive()
+
 
     # create njk flies for each archive
     master_build(sourcefolder + "补档.txt", os.getcwd() + os.path.sep + "show-archive.njk")
