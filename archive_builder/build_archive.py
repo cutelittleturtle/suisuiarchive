@@ -235,15 +235,14 @@ if __name__ == '__main__':
 
     sourcefolder = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章" + os.path.sep
 
-    # create 补档.txt
-    concatenate_files(sourcefolder)
-
     # update 直播.txt automatically, 来源：杨冰怡应援会
     update_stream_archive()
 
     # update 公演.txt -> 《命运的X号》公演补档 automatically, 来源: 杨冰怡返图站
     update_gongyan_archive()
 
+    # create 补档.txt
+    concatenate_files(sourcefolder)
 
     # create njk flies for each archive
     master_build(sourcefolder + "补档.txt", os.getcwd() + os.path.sep + "show-archive.njk")
