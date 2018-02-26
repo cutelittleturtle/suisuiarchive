@@ -1,31 +1,23 @@
-# [SNH48-杨冰怡的补档小站 v2](http://suisui.stream) [![Build Status](https://travis-ci.org/cutelittleturtle/suisuiarchive.svg?branch=master)](https://travis-ci.org/cutelittleturtle/suisuiarchive)
+# [SNH48-杨冰怡的补档小站 v2/An Online Archive Site for SNH48-YangBingyi](http://suisui.stream) [![Build Status](https://travis-ci.org/cutelittleturtle/suisuiarchive.svg?branch=master)](https://travis-ci.org/cutelittleturtle/suisuiarchive)
 
-SNH48杨冰怡的补档小站第二版。本版本采用了全新设计，且仅收录SNH48-杨冰怡相关信息。如希望访问Hexo搭建的旧版，请点击[这里](cutelittleturtle.github.io)。
+SNH48杨冰怡的补档小站第二版（半自动更新）。本版本采用了全新设计，收录SNH48-杨冰怡相关信息。所有信息仅收录链接；本站不对链接内容的有效性、合法性负责，同时不涉及任何版权。
 
-# 维护、建议：
-网站由个人维护，因为时间有限，所以不保证最新消息。
+An Online Archive Site for SNH48-YangBingyi (Semi-automatic update). The site contains information on performance, video streaming, video cuts that are performed by or partly by SNH48-YangBingyi. This site only contains hyperlinks to those contents, thus is not responsible for them. This site contains no copyright materials either.
 
-如有关于网站建设的建议和意见，请联系微博[饿饿的土拨鼠](https://weibo.com/u/5973150647/)
+# 自动更新内容/Auto-update contents
 
-# 版权:
+直播 -> 睡前半小时.txt
 
-网站模板：[NexT Documentation](http://theme-next.iissnan.com/)
+公演 -> 《命运的X号》公演cut
 
-图片内容: [SNH48-杨冰怡](https://weibo.com/u/5491331848), [SNH48](http://www.snh48.com/)
-
-源代码: [MIT License](https://opensource.org/licenses/MIT)
-
-&nbsp;
-
-## 维护指南
-
-1. 登陆Gituhb/suisuiarchive
+# 维护/Maintenance：
+1. 登陆Github/suisuiarchive
 2. 进入【文章】文件夹
-3. 选取要更新的文档：<s>直播</s>(已实现自动更新)，`补档模块`下任意模块，或者`unit展示`，进行修改。您可以:
+3. 选取要更新的文档：`直播模块`，`补档模块`，或者`unit展示`。您可以:
    1. 添加条目
    2. 修改条目目录结构
    3. 添加子目录:如果需要添加子目录，在目录名前加上一个`#`号即可 (目前仅支持2级目录)
-  
+
 
 *注意: 补档链接只能在`补档模块`目录下的相应文档中进行添加，`补档.txt`本身由各模块共同生成，直接修改会被覆盖。*
 
@@ -89,4 +81,15 @@ unit展示区
 > 更多问题，请对照 `文章`文件夹中的示例文档。
 >
 > 或联系微博[饿饿的土拨鼠](https://weibo.com/u/5973150647/)
-    
+
+网站由个人维护，因为时间有限，所以不保证最新消息。
+
+如有关于网站建设的建议和意见，请联系微博[饿饿的土拨鼠](https://weibo.com/u/5973150647/)
+
+# 版权:
+
+网站模板：[NexT Documentation](http://theme-next.iissnan.com/)
+
+图片内容: [SNH48-杨冰怡](https://weibo.com/u/5491331848), [SNH48](http://www.snh48.com/)
+
+源代码: [MIT License](https://opensource.org/licenses/MIT)

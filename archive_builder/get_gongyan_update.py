@@ -43,6 +43,7 @@ def get_new_stream(sourcedate):
     return new_addition
 
 def update_gongyan_archive():
+    print("更新《命运的X号》公演cut")
     sourcefolder = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章" + os.path.sep + "补档模块" + os.path.sep
     sourcefile = sourcefolder + "公演.txt"
     sourcestring = ""
@@ -65,6 +66,7 @@ def update_gongyan_archive():
 
     new_stream_items = get_new_stream(sourcedate)
     if new_stream_items:
+        print("共更新%d条信息" % len(new_stream_items))
         with codecs.open(sourcefolder + "temp.txt",'w',encoding='utf-8') as f:
             result = ""
             for video in new_stream_items:
@@ -79,4 +81,5 @@ def update_gongyan_archive():
             os.remove(sourcefolder + 'temp.txt')
         except Exception as e:
             print(e)
-
+    else:
+        print("没有新信息")

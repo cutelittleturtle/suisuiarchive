@@ -43,6 +43,7 @@ def get_new_stream(sourcedate):
     return new_addition
 
 def update_stream_archive():
+    print("更新直播-睡前半小时")
     sourcefolder = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章" + os.path.sep + "直播模块" + os.path.sep
     sourcefile = sourcefolder + "睡前半小时.txt"
     sourcestring = ""
@@ -66,6 +67,7 @@ def update_stream_archive():
     new_stream_items = get_new_stream(sourcedate)
     MODIFIED = False
     if new_stream_items:
+        print("共更新%d条信息" % len(new_stream_items))
         with codecs.open(sourcefolder + "temp.txt",'w',encoding='utf-8') as f:
             result = '睡前半小时' + os.linesep + os.linesep
             for video in new_stream_items:
@@ -80,6 +82,8 @@ def update_stream_archive():
             MODIFIED = True
         except Exception as e:
             print(e)
+    else:
+        print("没有新信息")
 
     filenames = [sourcefolder + "特殊.txt", sourcefolder + "睡前半小时.txt", sourcefolder + "小学生日记.txt", sourcefolder + "更多.txt"]
     if MODIFIED:
