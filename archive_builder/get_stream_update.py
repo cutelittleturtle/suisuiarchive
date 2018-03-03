@@ -31,6 +31,7 @@ def get_new_stream(sourcedate):
                 date = re.search(r'\d{6}',title).group(0)
                 date = '20' + date[:2] + '-' + date[2:4] + '-' + date[4:6]
                 title = title.replace(date, '').strip()
+                title = title.replace('【SNH48】', '').replace('【杨冰怡】', '')
             except:
                 r2 = requests.get(url)
                 soup = BeautifulSoup(r2.content, 'lxml')
