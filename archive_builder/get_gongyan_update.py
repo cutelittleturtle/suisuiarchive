@@ -29,14 +29,13 @@ def get_new_stream(sourcedate):
         if "命运的X号" in title and "公演" in title:
             try:
                 date = re.search(r'\d{8}',title).group(0)
-                title = date + " " + title.replace(date, '').strip()
             except:
                 r2 = requests.get(url)
                 soup = BeautifulSoup(r2.content, 'lxml')
-                date = soup.find('time')['datetime']
+                date = soup.find('meta', {'itemprop':'uploadDate'})['content']
                 date = date[:4] + date[5:7] + date[8:10]
 
-            #print(date + " " + title, url)
+            title = date + " " + title.replace(date, '').strip()
             if datetime.strptime(date, '%Y%m%d') > datetime.strptime(sourcedate, '%Y%m%d'):
                 new_addition.append({'title':title, 'url':url, 'aid':aid})
 
