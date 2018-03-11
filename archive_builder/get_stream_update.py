@@ -12,7 +12,7 @@ from datetime import datetime
 
 def get_new_stream(sourcedate):
 
-    API='https://space.bilibili.com/ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate'
+    API = 'https://space.bilibili.com/ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate'
 
     r = requests.get(API)
     json_content = r.json()
