@@ -4,22 +4,36 @@ SNH48杨冰怡的补档小站第二版（半自动更新）。本版本采用了
 
 An Online Archive Site for SNH48-YangBingyi (Semi-automatic update). The site contains information on performance, video streaming, video cuts that are performed by or partly by SNH48-YangBingyi. This site only contains hyperlinks to those contents, thus is not responsible for them. This site contains no copyright materials either.
 
-# 自动更新内容/Auto-update contents
+# 自动更新/Auto-update
 
-直播 -> 睡前半小时.txt
+本文档将自动更新如下类容。为了保证更新成功，请勿手动修改以下任何文件。
 
-公演 -> 《命运的X号》公演cut
+自动更新依据应援会书写的视频名称进行。如果命名习惯改变，更新将失败，请通知作者。
 
-# 维护/Maintenance：
+```
+直播 -> /文章/直播模块/睡前半小时.txt
+
+公演 -> /文章/补档模块/《命运的X号》公演cut
+
+外务 -> /文章/外务模块/48狼人杀.txt
+
+未整理 -> 上面三类意外的更新，将暂且放入/assets/未整理.txt (可手动修改)
+
+最近更新时间 -> /文章/更新时间.txt
+```
+
+
+
+# 手动维护/Manual Maintenance：
 1. 登陆Github/suisuiarchive
 2. 进入【文章】文件夹
-3. 选取要更新的文档：`直播模块`，`补档模块`，或者`unit展示`。您可以:
+3. 选取可手动修改的文件进行`/文章/`目录下`直/播模块`，`补档模块`，`外务模块`里的非自动更新文本文件，或者`/文章/unit展示.txt`和`/文章/未整理.txt`。您可以:
    1. 添加条目
-   2. 修改条目目录结构
+   2. ~~修改条目目录结构~~ (请勿修改目录结构，否则自动更新可能失败)
    3. 添加子目录:如果需要添加子目录，在目录名前加上一个`#`号即可 (目前仅支持2级目录)
 
 
-*注意: 补档链接只能在`补档模块`目录下的相应文档中进行添加，`补档.txt`本身由各模块共同生成，直接修改会被覆盖。*
+*注意: 未列出的文本文件可能会被更新代码生成的文件覆盖，修改则无效。*
 
 #### 条目格式
  ```

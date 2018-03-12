@@ -4,15 +4,17 @@
 import codecs
 import os
 import shutil
-from get_stream_update import update_stream_archive
-from get_gongyan_update import update_gongyan_archive
+from update_archive import update_archive
 
 # This script read a text+url text file to produce a jekyll friendly post file for publihsing html
 
 def _isurl(line):
 
     _urldef = ('http','https','www','ftp')
-    if any(x in line for x in _urldef):
+
+    if "/assets/未整理.txt" in line:
+        return True
+    elif any(x in line for x in _urldef):
         return True
     else:
         return False
@@ -217,7 +219,8 @@ def concatenate_files(sourcefolder):
 
     sourcefolder2 = sourcefolder + "补档模块" + os.path.sep
     filenames = [sourcefolder2 + "公演.txt", sourcefolder2 + "最新活动.txt", sourcefolder2 + "参与MV.txt", sourcefolder2 + "粉丝视频.txt",
-                 sourcefolder2 + "团内荣誉.txt", sourcefolder2 + "演讲感言.txt", sourcefolder2 + "生日会.txt", sourcefolder2 + "其他.txt"]
+                 sourcefolder2 + "团内荣誉.txt", sourcefolder2 + "演讲感言.txt", sourcefolder2 + "生日会.txt", sourcefolder2 + "其他.txt",
+                 sourcefolder2 + "unattended.txt"]
 
     with codecs.open(sourcefolder + "补档.txt", 'w', encoding='utf-8') as fo:
         for fname in filenames:
@@ -235,11 +238,8 @@ if __name__ == '__main__':
 
     sourcefolder = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章" + os.path.sep
 
-    # update 直播.txt automatically, 来源：杨冰怡应援会
-    update_stream_archive()
-
-    # update 公演.txt -> 《命运的X号》公演补档 automatically, 来源: 杨冰怡返图站
-    update_gongyan_archive()
+    # update, 来源：杨冰怡应援会
+    update_archive()
 
     # create 补档.txt
     concatenate_files(sourcefolder)
