@@ -1,4 +1,4 @@
 ﻿未整理
 
 文档
-/assets/未整理.txt
+https://raw.githubusercontent.com/cutelittleturtle/suisuiarchive/master/app/assets/未整理.txt
