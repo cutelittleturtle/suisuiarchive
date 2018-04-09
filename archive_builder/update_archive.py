@@ -353,7 +353,7 @@ def retrieve_feeds():
         aid = int(video['aid'])
         url = "https://www.bilibili.com/video/av" + str(aid)
 
-        if "命运的X号" in title and "公演" in title:
+        if "命运的X号" in title:
             sourcedate = sourcedate_gongyan if sourcedate_gongyan else datetime.now().strftime('%Y%m%d')
             date = get_date_from_title(title, url, slash=False)
             title = date + " " + title.replace(date, '').strip()
@@ -392,7 +392,7 @@ def retrieve_feeds():
             title = date + " " + title
 
             if datetime.strptime(date, '%Y-%m-%d') > datetime.strptime(sourcedate, '%Y-%m-%d'):
-                print(title)
+                print("unattended: " + title)
                 unattended.append({'title':title, 'url':url, 'aid':aid})
                 u_sourcedate_unattended = date
 
