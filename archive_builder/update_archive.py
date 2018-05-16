@@ -353,7 +353,7 @@ def retrieve_feeds():
         aid = int(video['aid'])
         url = "https://www.bilibili.com/video/av" + str(aid)
 
-        if "命运的X号" in title:
+        if "公演" in title:
             sourcedate = sourcedate_gongyan if sourcedate_gongyan else datetime.now().strftime('%Y%m%d')
             date = get_date_from_title(title, url, slash=False)
             title = date + " " + title.replace(date, '').strip()
