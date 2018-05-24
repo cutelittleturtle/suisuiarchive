@@ -15,8 +15,3 @@ menu:
   live-stream:
     label: 直播列表
     href: /live-stream.html
-  weibo:
-    label: 微记录
-    href: https://cutelittleturtle.github.io/timelineYBY/
-
-
