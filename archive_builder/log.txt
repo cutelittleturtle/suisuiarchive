@@ -4,6 +4,28 @@ Last 公演 updated on: 20180610
 Last 直播 updated on: 2018-06-10
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-06-04
+Receiving feed: 【SNH48】【杨冰怡】 20180701 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180701 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180630 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180630 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180630 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-什么yby直播了 (180629小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-什么yby直播了 (180627小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180624 Team X《命运的X号》第五届总决选预热演唱会-厦门站
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180624小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 20180624 Team X《命运的X号》第五届总决选预热演唱会-厦门站 公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20180621 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180621 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180621 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180616小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】《无声的探戈》20180616 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《马尾与发圈》 20180616 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《美杜莎的温柔》 20180616 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180616 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180616 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180615 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180615 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180615 Team X《命运的X号》公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180610小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】《双生花》 20180610 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20180610 Team X《命运的X号》公演MC CUT
@@ -12,38 +34,10 @@ Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 哈 (180604小�
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180603 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20180603 Team X《命运的X号》公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】《黑天使》 20180602 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180602 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180602 Team X《命运的X号》
-Receiving feed: 砥砺前行SNH48第五届年度人气总决选-杨冰怡个人宣言视频
-Starting new HTTPS connection (1): www.bilibili.com
-https://www.bilibili.com:443 "GET /video/av24365561 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 哈 (180529小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】《巧克力之吻》 20180527 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180527 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20180527 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180527 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 梦回2015 (1800523小学生日记)
-Starting new HTTPS connection (1): www.bilibili.com
-https://www.bilibili.com:443 "GET /video/av23979690 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180523 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180523 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180523 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 20180516 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-小可爱突然上线 (180516小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 201800516 Team X《命运的X号》
-Starting new HTTPS connection (1): www.bilibili.com
-https://www.bilibili.com:443 "GET /video/av23627779 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180516 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180516 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20180513 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180513 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 20180509 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180509 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180509 Team X《命运的X号》
 更新《命运的X号》公演cut
-共更新0条信息
+共更新18条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新4条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
