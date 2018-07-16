@@ -1,9 +1,16 @@
 Starting new HTTPS connection (1): space.bilibili.com
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20180610
-Last 直播 updated on: 2018-06-10
+Last 公演 updated on: 20180706
+Last 直播 updated on: 2018-07-07
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-06-04
+Receiving feed: 【SNH48】【杨冰怡】 口袋48电台直播- 来了 (180707小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180706 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180706 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播-来了 (180706小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-来了 (180704小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180701小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-什么yby直播了 (180630小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】 20180701 Team X《命运的X号》公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180701 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180630 Team X《命运的X号》
@@ -27,17 +34,10 @@ Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180615 Team X�
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180615 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20180615 Team X《命运的X号》公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180610小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】《双生花》 20180610 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180610 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 哈 (180605小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 哈 (180604小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180603 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180603 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《黑天使》 20180602 Team X《命运的X号》
 更新《命运的X号》公演cut
-共更新18条信息
+共更新0条信息
 更新直播-睡前半小时
-共更新4条信息
+共更新0条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
