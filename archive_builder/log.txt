@@ -1,9 +1,19 @@
 Starting new HTTPS connection (1): space.bilibili.com
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20180706
-Last 直播 updated on: 2018-07-07
+Last 公演 updated on: 20180715
+Last 直播 updated on: 2018-07-22
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-06-04
+Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播+电台：好好唱歌(X) (180722小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 歪 (180721小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播- 歪 (180720小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48电台直播- 哈 (180718小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台-来了 (180716小学生日记)
+Receiving feed: 【SNH48】【杨冰怡】20180715 第五届总决选群体拉票专场公演CUT
+Receiving feed: 【SNH48】【杨冰怡】 20180713 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180713 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20180712《百分百心动》特殊公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】《夜行的黑猫》 20180712《百分百心动》特殊公演
 Receiving feed: 【SNH48】【杨冰怡】 口袋48电台直播- 来了 (180707小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180706 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20180706 Team X《命运的X号》公演MC CUT
@@ -24,16 +34,6 @@ Receiving feed: 【SNH48】【杨冰怡】 20180624 Team X《命运的X号》第
 Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20180621 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180621 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20180621 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180616小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】《无声的探戈》20180616 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《马尾与发圈》 20180616 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《美杜莎的温柔》 20180616 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180616 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180616 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】《最后的曙光》 20180615 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180615 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20180615 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 什么yby直播了 (180610小学生日记)
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
