@@ -267,7 +267,7 @@ def writedisk_stream(new_stream, FORCE=False):
             sys.exit(ext_msg1)
 
         # concatenate
-        filenames = [sourcefolder + "特殊.txt", sourcefolder + "睡前半小时.txt", sourcefolder + "小学生日记.txt", sourcefolder + "更多.txt"]
+        filenames = [sourcefolder + "其她成员直播里的水水.txt", sourcefolder + "特殊.txt", sourcefolder + "睡前半小时.txt", sourcefolder + "小学生日记.txt", sourcefolder + "更多.txt"]
         if MODIFIED:
             try:
                 with codecs.open(sourcefolder + '直播.txt', 'w', encoding='utf-8') as fo:

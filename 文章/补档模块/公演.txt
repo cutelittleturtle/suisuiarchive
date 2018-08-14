@@ -35,12 +35,6 @@ https://www.bilibili.com/video/av27037584
 20180713 【SNH48】【杨冰怡】《Battle Cry》  Team X《命运的X号》
 https://www.bilibili.com/video/av27037425
 
-20180712 【SNH48】【杨冰怡】 《百分百心动》特殊公演MC CUT
-https://www.bilibili.com/video/av27028557
-
-20180712 【SNH48】【杨冰怡】《夜行的黑猫》 《百分百心动》特殊公演
-https://www.bilibili.com/video/av27020699
-
 20180706 【SNH48】【杨冰怡】《Battle Cry》  Team X《命运的X号》
 https://www.bilibili.com/video/av26355490
 
@@ -861,6 +855,12 @@ https://www.bilibili.com/video/av4625066/
 https://www.bilibili.com/video/av4588312/
 
 # 特别公演
+
+20180712 【SNH48】【杨冰怡】 《百分百心动》特殊公演MC CUT
+https://www.bilibili.com/video/av27028557
+
+20180712 【SNH48】【杨冰怡】《夜行的黑猫》 《百分百心动》特殊公演
+https://www.bilibili.com/video/av27020699
 
 20180209 春晚主题公演（TOP32+TOP48成员）
 https://www.bilibili.com/video/av19380600/
