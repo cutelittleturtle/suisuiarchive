@@ -1,9 +1,9 @@
 Starting new HTTPS connection (1): space.bilibili.com
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20180812
+Last 公演 updated on: 20180819
 Last 直播 updated on: 2018-08-11
 Last 外务 updated on: 20180323
-Last 未分类 updated on: 2018-07-31
+Last 未分类 updated on: 2018-08-17
 Receiving feed: 【SNH48】【杨冰怡】 20180819 宋昕冉生诞表演部分 CUT
 Receiving feed: 【SNH48】【杨冰怡】 20180819 Team X《命运的X号》宋昕冉生诞公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】《双生花》 20180819 Team X《命运的X号》宋昕冉生诞公演
@@ -37,10 +37,10 @@ Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20180713 Team X《命
 Receiving feed: 【SNH48】【杨冰怡】 20180712《百分百心动》特殊公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】《夜行的黑猫》 20180712《百分百心动》特殊公演
 更新《命运的X号》公演cut
-共更新4条信息
+共更新0条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新2条信息
+共更新1条信息
