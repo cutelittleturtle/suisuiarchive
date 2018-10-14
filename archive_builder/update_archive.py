@@ -13,6 +13,12 @@ import logging
 
 API = 'https://space.bilibili.com/ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate'
 
+headers = {'Accept': '*/*',
+            'Accept-Language': 'en-US,en;q=0.8',
+            'Cache-Control': 'max-age=0',
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'
+           }
+
 script_dir = os.getcwd()
 root_dir = os.path.abspath(os.path.join(script_dir, ".."))
 archive_dir = os.path.abspath(os.path.join(os.getcwd(), "..")) + os.path.sep + "文章"
@@ -135,7 +141,7 @@ def get_date_from_title(title, url, slash=False):
 
     def get_url_date(url):
         try:
-            r2 = requests.get(url)
+            r2 = requests.get(url, headers=headers)
             soup = BeautifulSoup(r2.content, 'lxml')
             date = soup.find('meta', {'itemprop':'uploadDate'})['content'][:10]
             Y = date[:4]
@@ -402,7 +408,7 @@ def retrieve_feeds():
     global API
 
     try:
-        r = requests.get(API)
+        r = requests.get(API, headers=headers)
         json_content = r.json()
     except Exception as e:
         logger.exception(e)
@@ -514,5 +520,3 @@ def declare_logger():
 
 if __name__ == "__main__":
     main()
-
-
