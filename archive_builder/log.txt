@@ -1,6 +1,6 @@
 Starting new HTTPS connection (1): space.bilibili.com:443
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20181013
+Last 公演 updated on: 20181018
 Last 直播 updated on: 2018-09-22
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-10-06
@@ -37,7 +37,7 @@ Receiving feed: 【SNH48】【杨冰怡】《歌曲串烧》with dyx 20180908《
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - 随便聊聊 (180908小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台- 关于生日公演(不是 其实是忘记改了。。) (180902小学生日记)
 更新《命运的X号》公演cut
-共更新3条信息
+共更新0条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
