@@ -1,7 +1,7 @@
 Starting new HTTPS connection (1): space.bilibili.com:443
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20181117
-Last 直播 updated on: 2018-10-25
+Last 公演 updated on: 20181122
+Last 直播 updated on: 2018-11-25
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-11-04
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - B50中报+随便聊聊 (181125小学生日记)
@@ -37,9 +37,9 @@ Receiving feed: 【SNH48】【杨冰怡】《Hold it against me》181001《命�
 Receiving feed: 【SNH48】【杨冰怡】20181001《命运的X号》杨冰怡生诞公演 全场CUT
 Receiving feed: 【SNH48】【杨冰怡】《ICE KING》 20181001 Team X《命运的X号》杨冰怡生诞公演UNIT
 更新《命运的X号》公演cut
-共更新2条信息
+共更新0条信息
 更新直播-睡前半小时
-共更新1条信息
+共更新0条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
