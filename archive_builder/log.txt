@@ -4,6 +4,12 @@ Last 公演 updated on: 20181122
 Last 直播 updated on: 2018-11-25
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2018-11-04
+Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节伴舞《夜之终焉》
+Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节 《给冯晓菲的一封信》
+Receiving feed: 【SNH48】【杨冰怡】《双生花》 20181201 Team X《命运的X号》
+Receiving feed: 【SNH48】【杨冰怡】 20181201 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】 20181129 Team X《命运的X号》公演MC CUT
+Receiving feed: 【SNH48】【杨冰怡】 20181129 七人小组合拉票环节表演
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - B50中报+随便聊聊 (181125小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20181122 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20181122 Team X《命运的X号》公演MC CUT
@@ -28,19 +34,11 @@ Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》 20181013 Team X《命
 Receiving feed: 【SNH48】【杨冰怡】《占卜师》 20181011 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20181011 Team X《命运的X号》公演MC CUT
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - 生日公演后的唠嗑 (181006小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】心知祁意国庆档 嘉宾：杨冰怡
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av33210338 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】20181001《命运的X号》杨冰怡生诞公演 弹幕版全场
-Receiving feed: 【SNH48】【杨冰怡】《关不掉》 181001《命运的X号》杨冰怡生诞公演 生日表演三
-Receiving feed: 【SNH48】【杨冰怡】《Hold it against me》181001《命运的X号》杨冰怡生诞公演 特殊表演二
-Receiving feed: 【SNH48】【杨冰怡】20181001《命运的X号》杨冰怡生诞公演 全场CUT
-Receiving feed: 【SNH48】【杨冰怡】《ICE KING》 20181001 Team X《命运的X号》杨冰怡生诞公演UNIT
 更新《命运的X号》公演cut
-共更新0条信息
+共更新3条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新3条信息
