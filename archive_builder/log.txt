@@ -4,6 +4,9 @@ Last 公演 updated on: 20190113
 Last 直播 updated on: 2019-05-17
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-05-08
+Receiving feed: 【SNH48】【杨冰怡】Vlog五连安排！/唠嗑唱歌的电台~
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av53483992 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】最近超喜欢皮卡丘~/爆祁静的料/半夜好嗨的电台
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av52684247 HTTP/1.1" 200 None
@@ -45,11 +48,10 @@ Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20181212 Team X《�
 Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节伴舞《夜之终焉》
 Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节 《给冯晓菲的一封信》
 Receiving feed: 【SNH48】【杨冰怡】《双生花》 20181201 Team X《命运的X号》
-Receiving feed: 【SNH48】【杨冰怡】 20181201 Team X《命运的X号》公演MC CUT
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新1条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
