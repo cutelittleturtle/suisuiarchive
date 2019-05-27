@@ -1,6 +1,6 @@
 Starting new HTTPS connection (1): space.bilibili.com:443
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20190113
+Last 公演 updated on: 20190526
 Last 直播 updated on: 2019-05-25
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-05-08
@@ -51,7 +51,7 @@ Receiving feed: 【SNH48】【杨冰怡】《深海之声》 20181212 Team X《�
 Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节伴舞《夜之终焉》
 Receiving feed: 【SNH48】【杨冰怡】 20181201 灰灰生日环节 《给冯晓菲的一封信》
 更新《命运的X号》公演cut
-共更新1条信息
+共更新0条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
