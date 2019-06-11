@@ -3,7 +3,7 @@ https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pag
 Last 公演 updated on: 20190526
 Last 直播 updated on: 2019-06-07
 Last 外务 updated on: 20180323
-Last 未分类 updated on: 2019-05-08
+Last 未分类 updated on: 2019-06-10
 Receiving feed: 【SNH48】【杨冰怡】深夜哭哭委委屈屈
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av55130821 HTTP/1.1" 200 None
@@ -63,4 +63,4 @@ Receiving feed: 【SNH48】【杨冰怡】C位安可曲《一百米便利店》 
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新1条信息
+共更新0条信息
