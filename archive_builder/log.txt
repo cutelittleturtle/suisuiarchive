@@ -1,7 +1,7 @@
 Starting new HTTPS connection (1): space.bilibili.com:443
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
 Last 公演 updated on: 20190526
-Last 直播 updated on: 2019-06-07
+Last 直播 updated on: 2019-06-13
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-06-10
 Receiving feed: 【SNH48】【杨冰怡】小水生病中，来营业的是床板/依旧是个假直播真电台
@@ -61,7 +61,7 @@ Receiving feed: 【SNH48】【杨冰怡】 20181212 Team X《命运的X号》公
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新1条信息
+共更新0条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
