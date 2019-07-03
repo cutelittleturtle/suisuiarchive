@@ -4,6 +4,9 @@ Last 公演 updated on: 20190624
 Last 直播 updated on: 2019-06-22
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-06-29
+Receiving feed: 【SNH48】【杨冰怡】你们好保守哦/在韩国的直播
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av57650119 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】拉票结束后的快乐直播
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av57177629 HTTP/1.1" 200 None
@@ -67,9 +70,6 @@ Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 今夜一起来唱�
 Receiving feed: 【SNH48】【杨冰怡】 20190113 7人小分队公演
 Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》《深海之声》 20190110 Team X《命运的X号》
 Receiving feed: 【SNH48】【杨冰怡】 20190110 Team X《命运的X号》公演MC CUT
-Receiving feed: 【SNH48】【杨冰怡】由你音乐榜样 打榜歌曲 - 《此刻到永远》
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av39467809 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
@@ -77,4 +77,4 @@ https://www.bilibili.com:443 "GET /video/av39467809 HTTP/1.1" 200 None
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新1条信息
