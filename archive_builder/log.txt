@@ -3,7 +3,10 @@ https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pag
 Last 公演 updated on: 20190624
 Last 直播 updated on: 2019-06-22
 Last 外务 updated on: 20180323
-Last 未分类 updated on: 2019-07-03
+Last 未分类 updated on: 2019-07-08
+Receiving feed: 【SNH48】【杨冰怡】跟大家玩游戏/被五折安利/突然的电台
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av58412317 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】嫌弃水推直男/安慰栗栗/中报后的直播
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av58280939 HTTP/1.1" 200 None
@@ -71,12 +74,11 @@ Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 转发这个杨冰�
 Receiving feed: 【SNH48】【杨冰怡】 20190119 第五届金曲大赏 黑喵Party 个人直拍
 Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 今夜一起来唱黑暗童谣~ (190121小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】 20190113 7人小分队公演
-Receiving feed: 【SNH48】【杨冰怡】《Battle Cry》《深海之声》 20190110 Team X《命运的X号》
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新1条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新1条信息
+共更新0条信息
