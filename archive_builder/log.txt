@@ -3,7 +3,7 @@ https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pag
 Last 公演 updated on: 20190624
 Last 直播 updated on: 2019-07-24
 Last 外务 updated on: 20180323
-Last 未分类 updated on: 2019-07-14
+Last 未分类 updated on: 2019-07-26
 Receiving feed: 【SNH48】【杨冰怡】是19岁的小可爱啦！/19岁生日直播
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av60789040 HTTP/1.1" 200 None
@@ -89,4 +89,4 @@ Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 好飘一女的！�
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新1条信息
+共更新0条信息
