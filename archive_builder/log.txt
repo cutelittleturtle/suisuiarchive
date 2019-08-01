@@ -4,6 +4,15 @@ Last 公演 updated on: 20190624
 Last 直播 updated on: 2019-07-24
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-07-26
+Receiving feed: 【SNH48】【杨冰怡】特长是特能长溃疡/感冒中的直播
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av61662926 HTTP/1.1" 200 None
+Receiving feed: 【SNH48】【杨冰怡】等排练的直播/19岁的第一天在排练中度过
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av61612174 HTTP/1.1" 200 None
+Receiving feed: 【SNH48】【杨冰怡】握手会的趣事/感冒中的电台
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av61612430 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】是19岁的小可爱啦！/19岁生日直播
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av60789040 HTTP/1.1" 200 None
@@ -79,14 +88,11 @@ https://www.bilibili.com:443 "GET /video/av51762133 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台 - yby：回家过年半个月绝不开直播！ 真香.JPG (190131小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - 年前最后的100分钟超长直播~樱桃睡衣首出镜 (190127小学生日记)
 Receiving feed: 【SNH48】【杨冰怡】 口袋48视频直播 - 好精致一女的~X队欢乐屋视频直播 (190126小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】 20190119 第五届金曲大赏 新航路 个人直拍 Focus
-Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 饥饿营销开始？让富贵儿再飘一会~ (190125小学生日记)
-Receiving feed: 【SNH48】【杨冰怡】 口袋48电台 - 好飘一女的！杨富贵全程假酒高能 (190124小学生日记)
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新1条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新2条信息
