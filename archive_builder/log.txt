@@ -4,6 +4,9 @@ Last 公演 updated on: 20190624
 Last 直播 updated on: 2019-08-08
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2019-08-16
+Receiving feed: 【SNH48】【杨冰怡】看自己生诞/你的小可爱忙完终于营业了
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av67116810 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】中元节给大家讲可爱鬼的故事/要去拍MV啦
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av64027897 HTTP/1.1" 200 None
@@ -91,7 +94,6 @@ https://www.bilibili.com:443 "GET /video/av51770472 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】跨年报销还没拿到 哭唧唧/巡演前的碎碎念
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av51762133 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台 - yby：回家过年半个月绝不开直播！ 真香.JPG (190131小学生日记)
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
@@ -99,4 +101,4 @@ Receiving feed: 【SNH48】【杨冰怡】 口袋48每日电台 - yby：回家�
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新1条信息
