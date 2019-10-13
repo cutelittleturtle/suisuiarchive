@@ -3,7 +3,10 @@ https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pag
 Last 公演 updated on: 20190909
 Last 直播 updated on: 2019-10-11
 Last 外务 updated on: 20180323
-Last 未分类 updated on: 2019-10-08
+Last 未分类 updated on: 2019-10-11
+Receiving feed: 【SNH48】【杨冰怡】吃窑鸡/暴走现场/静肥水玥快乐直播
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av71039252 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】来陪孤单小水吃晚饭
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av70887366 HTTP/1.1" 200 None
@@ -91,9 +94,6 @@ https://www.bilibili.com:443 "GET /video/av56488176 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】今天也是中分水/在祁静房间的吃播
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av56363583 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】换发型了！没有秃！/今天是露脸直播
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av56147445 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
