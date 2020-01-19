@@ -4,6 +4,9 @@ Last 公演 updated on: 20191026
 Last 直播 updated on: 2019-11-01
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-01-14
+Receiving feed: 【SNH48】【杨冰怡】歪来电台啦/肥肥疯狂表白，肥水????了
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av84054380 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】年会有四个奖！感谢大家！/18号有惊喜哦！
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av83317585 HTTP/1.1" 200 None
@@ -91,13 +94,10 @@ https://www.bilibili.com:443 "GET /video/av68197789 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】从十四岁开始的爆炸MC（水水精彩MC集锦）
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av68016114 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】羡慕悠唐外卖/撒娇唱歌/在北京中心电台馁
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av68013009 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新1条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
