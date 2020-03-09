@@ -1,9 +1,12 @@
 Starting new HTTPS connection (1): space.bilibili.com:443
 https://space.bilibili.com:443 "GET /ajax/member/getSubmitVideos?mid=9247194&pagesize=30&tid=0&page=1&keyword=&order=pubdate HTTP/1.1" 200 None
-Last 公演 updated on: 20200228
+Last 公演 updated on: 20200307
 Last 直播 updated on: 2020-03-01
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-03-06
+Receiving feed: 【SNH48】【杨冰怡】看手牵手云公演+查水表
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av94548941 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】云公演NX都上/云握手要来哦！/溃疡小水来唠嗑
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av94300538 HTTP/1.1" 200 None
@@ -91,9 +94,6 @@ https://www.bilibili.com:443 "GET /video/av75152909 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】休假小水久违的电台
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av74089350 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】公演完连今天带着明天的份一起营业啦
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av73420552 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新1条信息
 更新直播-睡前半小时
