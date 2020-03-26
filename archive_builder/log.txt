@@ -4,6 +4,12 @@ Last 公演 updated on: 20200323
 Last 直播 updated on: 2020-03-24
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-03-19
+Receiving feed: 【SNH48】【杨冰怡】回归黑长直的小水！
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av99400299 HTTP/1.1" 200 None
+Receiving feed: 【SNH48】【杨冰怡】小杨素颜不为人知的故事？!/电台唠嗑
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av99223578 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】下周要排练啦/台湾腔表演/休息日的快乐电台
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av98560082 HTTP/1.1" 200 None
@@ -88,17 +94,11 @@ https://www.bilibili.com:443 "GET /video/av82635440 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】小魔法师眼镜水在线索命
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av82118644 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】跨年打call比赛拜托大家啦/土土木木即将到付/在肥兔房间撸金天
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av81070480 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】歪理：给水推买彩票，中了二八分
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av80930935 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
-共更新0条信息
+共更新1条信息
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新1条信息
