@@ -4,6 +4,11 @@ Last 公演 updated on: 20200323
 Last 直播 updated on: 2020-03-26
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-04-14
+Receiving feed: 【SNH48】 《我是大美人》 杨冰怡 cut 20200401
+Receiving feed: 【SNH48】 《我是大美人》 杨冰怡 cut 20200408
+Receiving feed: 【SNH48】【杨冰怡】外务孤独单间来找水推玩
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av840348450 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】玛丽亚故事解析/边玩动森边唠嗑
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av497752952 HTTP/1.1" 200 None
@@ -85,15 +90,6 @@ https://www.bilibili.com:443 "GET /video/av92243186 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】找不到药的一个半小时唠嗑电台
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av91493406 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】活力满满/每天都鸽的小学生日记！~
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av90988514 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】土土叛逆伤透水水心/生病了嗓音沙哑的电台
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av88527674 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】宅家十三天的歪露脸直播了！！！
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av86407433 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
 共更新0条信息
 更新直播-睡前半小时
@@ -101,4 +97,4 @@ https://www.bilibili.com:443 "GET /video/av86407433 HTTP/1.1" 200 None
 更新外务-48狼人杀
 共更新0条信息
 更新 未整理
-共更新0条信息
+共更新1条信息
