@@ -4,6 +4,9 @@ Last 公演 updated on: 20200323
 Last 直播 updated on: 2020-03-26
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-05-02
+Receiving feed: 【SNH48】【杨冰怡】嗦粉嘴炮唠嗑/久违的公演后直播
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av243074142 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】收工后的小歪短暂的唠嗑
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av710589799 HTTP/1.1" 200 None
@@ -85,11 +88,8 @@ https://www.bilibili.com:443 "GET /video/av94548941 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】云公演NX都上/云握手要来哦！/溃疡小水来唠嗑
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av94300538 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】因为不能吃好吃的委屈落泪/在肥兔房间快乐
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av94020021 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
-共更新0条信息
+共更新1条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
