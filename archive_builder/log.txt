@@ -4,6 +4,9 @@ Last 公演 updated on: 20200505
 Last 直播 updated on: 2020-06-02
 Last 外务 updated on: 20180323
 Last 未分类 updated on: 2020-06-06
+Receiving feed: 【SNH48】【杨冰怡】13号公演可能不在哦/薪情正常的电台
+Starting new HTTPS connection (1): www.bilibili.com:443
+https://www.bilibili.com:443 "GET /video/av710935755 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】歪带着被马老师肯定的妆容来了
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av710953577 HTTP/1.1" 200 None
@@ -85,11 +88,8 @@ https://www.bilibili.com:443 "GET /video/av455063406 HTTP/1.1" 200 None
 Receiving feed: 【SNH48】【杨冰怡】回归黑长直的小水！
 Starting new HTTPS connection (1): www.bilibili.com:443
 https://www.bilibili.com:443 "GET /video/av99400299 HTTP/1.1" 200 None
-Receiving feed: 【SNH48】【杨冰怡】小杨素颜不为人知的故事？!/电台唠嗑
-Starting new HTTPS connection (1): www.bilibili.com:443
-https://www.bilibili.com:443 "GET /video/av99223578 HTTP/1.1" 200 None
 更新《命运的X号》公演cut
-共更新0条信息
+共更新1条信息
 更新直播-睡前半小时
 共更新0条信息
 更新外务-48狼人杀
