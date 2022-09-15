@@ -46,7 +46,7 @@
   },
   "homepage": "http://theme-next.iissnan.com",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bootstrap-sass": "^3.3.7",
     "font-awesome": "^4.7.0",
     "jquery": "^3.1.1",
